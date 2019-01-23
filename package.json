@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Kiernan's Portfolio",
   "main": "index.js",
-  "homepage": "",
+  "homepage": "https://kiernandurkin.github.io/Kiernan-s-Portfolio-2.0",
   "scripts": {
     "sass": "node-sass -w scss/ -o dist/css/ --recursive",
     "deploy": "gh-pages -d dist"
